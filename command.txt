@@ -1,0 +1,2 @@
+g++ -Wall -Wextra -g3 -o d:\ShapesParser\main.exe d:\ShapesParser\main.cpp d:\ShapesParser\ShapeParser.cpp d:\ShapesParser\Square.cpp d:\ShapesParser\Circle.cpp d:\ShapesParser\Rectangle.cpp d:\ShapesParser\ShapeFactory.cpp
+.\main.exe
