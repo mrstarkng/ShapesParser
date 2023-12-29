@@ -43,7 +43,7 @@ Sort all the shapes and print out in ascending order using the area as the crite
 | 7 | Square       | Perimeter=29.1 | Area=20.14 |
 | 8 | Rectangle    | Perimeter=12.2 | Area=22.77 |
 ```
-###Advance technique for this program
+##Advance technique for this program
 1. Use design pattern
 
 - Singleton 
